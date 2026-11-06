@@ -1,15 +1,26 @@
-# Proyecto-Inform-tica-Trabajo-Social.
-En este repositorio recogeré la información sobre mi Trabajo de Fin de Grado para la asignatura de Informática del Trabajo Social.
-# Autoría
-Lidia Contreras Rodríguez
-# Área
-Trabajo Social
-# Tema
-La continuidad de los cuidados tras el alta hospitalaria en personas mayores en situación de dependencia: intervención del Trabajo Social
-# Población
-Personas mayores
-# Pregunta
-¿Cómo ha ido evolucionando la situación de dependencia en los últimos 10 años? ; ¿Cuáles son los principales problemas de salud que les lleva a ser dependientes? ; ¿Cuentan con el apoyo de las familias o solo de las personas cuidadoras?
-# Objetivos
-Objetivo general: Analizar la intervención y el acompañamiento del trabajador/a social y la necesidad de los cuidados de las personas mayores tras el alta. 
-Objetivos específicos: Identificar las necesidades de las personas tras el alta ; Detectar las dificultades para continuar los cuidados ; Describir la intervención del/la trabajador/a social en este proceso.
+Red de Apoyo para Personas Mayores en Cadiz
+Proyecto de la asignatura Informática para el Trabajo Social, Universidad de Cádiz.
+
+De qué trata
+Este proyecto aborda la brecha digital y la soledad no deseada en personas mayores de 65 años residentes en la provincia de Cádiz. A través de un asistente virtual interactivo, la plataforma facilita el acceso simplificado a recursos comunitarios, talleres locales y trámites sociales básicos.
+
+¿Cómo puede el uso de asistentes virtuales adaptados mejorar la autonomía y la inclusión social de las personas mayores en situación de aislamiento?
+
+Objetivos
+Identificar y centralizar en un único punto de acceso los recursos asistenciales y comunitarios disponibles para personas mayores en la provincia de Cádiz.
+
+Diseñar e implementar un asistente interactivo accesible con interfaz adaptada (lectura fácil, alto contraste y comandos simplificados).
+
+Evaluar el impacto de la herramienta tecnológica en la reducción de la brecha digital en el colectivo participante.
+
+Web del proyecto
+Visita la web Pendiente por ahora
+Describe la imagen en una frase pendiente
+
+Contenido del repositorio
+index.html: la web con el asistente
+
+README.md: esta presentación
+
+Autoría
+María García Pérez — curso 2026/2027
